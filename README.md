@@ -2,7 +2,7 @@
 For Beginners and Pros Alike: This is a starter collection of all the plugins, tools, text editors and free programs to help get a beginner web developer started.
 
 
-<p>Everything Listed Below is Free Online.  Enjoy :).  Message me on Slack if you have questions.</p>
+<p>Everything Listed Below is Free Online.  Enjoy :)</p>
 
 <h3>Text Editors</h3>
     <ul>
