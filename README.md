@@ -1,6 +1,7 @@
 # Web-Dev-Starter-Toolkit
 For Beginners and Pros Alike: This is a starter collection of all the plugins, tools, text editors and free programs to help get a beginner web developer started.
 
+<p>To see my video presentation of the following tools and how to use them <a href="https://www.youtube.com/watch?v=8M9zHESmBoo&t=10s">click here</a>.</p>
 
 <p>Everything Listed Below is Free Online.  Enjoy :)</p>
 
